@@ -23,6 +23,6 @@ data = np.array([
 #     print(f"Student {index + 1}\t{student[0]}\t{student[1]}\t{student[2]}\t{student[3]}\t\t{student[4]}")
     
 #prints the avg height , avg height is at 0 index. 
-print("The avgerage height is ",np.mean(data,axis=0)[0])
+print("The average height is ",np.mean(data,axis=0)[0])
     
 
