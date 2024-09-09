@@ -21,4 +21,4 @@ data = [
 
 df = pd.DataFrame(data, columns=['Height', 'Weight','Age', 'Avg_Grade' ,'Courses'])
 
-print(df.groupby(['Age']).mean())
+print(df.filter(items = ['Age','Avg_Grade']).groupby(['Age']).mean())
