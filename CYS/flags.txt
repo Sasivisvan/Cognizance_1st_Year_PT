@@ -1,0 +1,3 @@
+Task 1: picoCTF{more_than_m33ts_the_3y3657BaB2C}
+Task 2: picoCTF{the_m3tadata_1s_modified}
+Task 3: picoCTF{Hiddinng_An_imag3_within_@n_ima9e_96539bea}
